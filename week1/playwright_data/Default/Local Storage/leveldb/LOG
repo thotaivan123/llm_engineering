@@ -1,0 +1,5 @@
+2026/04/17-15:38:59.331 cf8a Reusing MANIFEST /Users/ivanthota/projects/llm_engineering/week1/playwright_data/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/17-15:38:59.333 cf8a Recovering log #3
+2026/04/17-15:38:59.339 cf8a Level-0 table #3: started
+2026/04/17-15:38:59.348 cf8a Level-0 table #3: 989890 bytes OK
+2026/04/17-15:38:59.352 cf8a Delete type=0 #3
